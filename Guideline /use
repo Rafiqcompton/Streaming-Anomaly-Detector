@@ -1,0 +1,3 @@
+Choose a window size that is appropriate for the data and the task at hand. A larger window will be more robust to noise and outliers, but it will also be less sensitive to sudden changes in the data.
+Choose a threshold that is appropriate for the desired sensitivity and specificity. A higher threshold will result in fewer false positives, but it will also miss more real anomalies.
+Be aware that the algorithm may not be able to detect all anomalies, especially if they are subtle or infrequent. It is important to monitor the results of the algorithm and to manually investigate any suspected anomalies.
