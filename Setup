@@ -1,0 +1,6 @@
+To use the algorithm, you will need to install the NumPy library. You can do this using the following command:
+
+pip install numpy
+
+Once NumPy is installed, you can create a new instance of the " AnomalyDetector" class and pass in the desired window size and threshold. You can then update the detector with new data points using the "update()" method. 
+To detect anomalies, call the "detect_anomalies()" method. This will return a list of all the anomalies that were detected in the window.
